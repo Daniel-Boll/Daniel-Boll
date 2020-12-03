@@ -6,7 +6,7 @@
 
   ## I'm a technology enthusiast and I love to learn
   
-<div align="center">    
+<div align="left">    
   
   - 🔭 I’m currently working within a group on my university!
   - 🌱 I’m currently learning everything 🤣
