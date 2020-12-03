@@ -1,10 +1,17 @@
 ### Hi there, I'm Daniel - aka [Nameless Blossom | Boll] 👋
 
-## I'm a technology enthusiast and I love to learn
-- 🔭 I’m currently working within a group on my university!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn more and create own API's. And I'm interested in go live code in twitch.
-- ⚡ Fun fact: I love art, music & games. I actually play a lot of LOL and Valorant 😋
+<div>
+
+  ## I'm a technology enthusiast and I love to learn
+  
+  <p align="left>🔭 I’m currently working within a group on my university!</p>
+  <p align="left>🌱 I’m currently learning everything 🤣</p>
+  <p align="left>🥅 2020 Goals: Learn more and create own API's. And I'm interested in go live code in twitch.</p>
+  <p align="left>⚡ Fun fact: I love art, music & games. I actually play a lot of LOL and Valorant 😋</p>
+  
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Daniel Boll">
+</div>
+
 
 ### Connect with me:
 
