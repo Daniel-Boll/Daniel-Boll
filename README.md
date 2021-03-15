@@ -46,7 +46,13 @@
 
 ---
 
-<img align="left" alt="DanielBoll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniel-boll&show_icons=true&hide_border=true" />
+<p align="center">
+ <img align="left" alt="Daniel Boll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniel-boll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=daniel-boll&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 [facebook]: https://facebook.com/damnboybot/
 [instagram]: https://instagram.com/damnboy_bot/
