@@ -10,8 +10,7 @@
   
   - 🔭 I’m currently working within a group on my university!
   - 🌱 I’m currently learning everything 🤣
-  - 🥅 2020 Goals: Learn more and create own API's. And I'm interested in go live code in twitch.
-  - ⚡ Fun fact: I love art, music & games. I actually play a lot of LOL and Valorant 😋
+  - ⚡ Fun fact: I love art, music & games.
   
 </div>
 
