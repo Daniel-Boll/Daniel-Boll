@@ -1,57 +1,32 @@
-### Hi there, I'm Daniel - aka [Nameless Blossom | Boll] 👋
-
- 
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Daniel Boll">
-   <br>
-
-  ## I'm a technology enthusiast and I love to learn
-  
-<div align="left">    
-  
-  - 🔭 I’m currently working within a group on my university!
-  - 🌱 I’m currently learning everything 🤣
-  - ⚡ Fun fact: I love art, music & games.
-  
-</div>
-
-
- 
-### Connect with me:
- 
-[<img align="left" alt="DanielBoll | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" />][facebook]
-[<img align="left" alt="DanielBoll | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][linkedin]
-[<img align="left" alt="DanielBoll | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][anything]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][anything]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][anything]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][anything]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][anything]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][anything]
-[<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][anything]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />][anything]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][anything]
-
-<br />
-<br />
-
----
-
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=daniel-boll&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <a href="https://www.linkedin.com/in/daniel-boll/">
+    <img src="https://img.shields.io/badge/daniel_boll-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
 </p>
 
----
+Hey there,
 
-<p align="center">
- <img align="left" alt="Daniel Boll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniel-boll&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
+I'm Boll, a full-stack developer based in Parana Brazil, I'm really passionate about technology in general (perhaps a little bit to hyped 😅). I love to learn new things, mainly new languages and back-end frameworks. Trying to contribute more to open source in the last few months and being enjoying a lot. Also looking forward to stream code some projects that I'd like to develop. 
 
-[facebook]: https://facebook.com/damnboybot/
-[instagram]: https://instagram.com/damnboy_bot/
-[linkedin]: https://www.linkedin.com/in/daniel-boll-0ab9b91ab/
-[anything]: https://google.com.br
+Want to contact me? [Get me through gmail](mailto:danielboll.academico@gmail.com)
+
+## Current Stack
+
+| Typed Languages | Not Typed Languages |
+| :--- | ---: |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACD) ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%23f74c00) ![C++](https://img.shields.io/badge/C++-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23007ACD) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python)
+| **Frameworks, Platforms and Libraries** | **Databases** |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nest.js](https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%23e0234e) ![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Hosting** | **Containers**|
+| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23000000.svg?style=for-the-badge&logo=amazon&logoColor=#23FF9A00) | ![Docker](https://img.shields.io/badge/docker-%232497ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/docker%20compose-%232497ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%232497ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
+## Current Stats
+
+|   ![Daniel's's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-boll&theme=rogue) |
+| :---: |
+
+| ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-boll&show_icons=true&theme=city_lights) | ![Daniel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-boll&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-boll&theme=city_lights) |
+| :---: |
