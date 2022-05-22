@@ -1,7 +1,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-boll/">
     <img src="https://img.shields.io/badge/daniel_boll-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
- </a>
+  </a>
+  <a href="https://google.com.br">
+    <img src="https://img.shields.io/badge/curriculum-%230077B5.svg?style=for-the-badge&logo=mdbook&logoColor=white" alt="CV" />
+  </a>
+  <a href="https://github.com/Daniel-Boll/.dotfiles">
+    <img src="https://img.shields.io/badge/dotfiles-%230077B5.svg?style=for-the-badge&logo=slashdot&logoColor=white" alt="CV" />
+  </a>
 </p>
 
 Hey there,
@@ -14,7 +20,7 @@ Want to contact me? [Get me through gmail](mailto:danielboll.academico@gmail.com
 
 | Typed Languages | Not Typed Languages |
 | :--- | ---: |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACD) ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%23f74c00) ![C++](https://img.shields.io/badge/C++-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23007ACD) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python)
+| ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACD) ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%23f74c00) ![C++](https://img.shields.io/badge/C%2b%2b-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23007ACD) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python)
 | **Frameworks, Platforms and Libraries** | **Databases** |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nest.js](https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%23e0234e) ![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Hosting** | **Containers**|
