@@ -10,6 +10,8 @@
   </a>
 </p>
 
+[![@danielboll's Holopin board](https://holopin.me/danielboll)](https://holopin.io/@danielboll)
+
 Hey there,
 
 I'm Boll, a full-stack developer based in Parana Brazil, I'm really passionate about technology in general (perhaps a little bit too hyped 😅). I love to learn new things, mainly new languages and back-end frameworks. Trying to contribute more to open source in the last few months and being enjoying a lot. Also looking forward to stream code some projects that I'd like to develop. 
