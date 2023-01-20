@@ -12,6 +12,16 @@
 
 [![@danielboll's Holopin board](https://holopin.me/danielboll)](https://holopin.io/@danielboll)
 
+<a href="https://www.buymeacoffee.com/daniel.boll" target="_blank" rel="noreferrer">
+ <center>
+
+<img
+  src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=daniel.boll&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
+alt="buy me a coffee"/>
+ </center>
+
+</a>
+
 Hey there,
 
 I'm Boll, a full-stack developer based in Parana Brazil, I'm really passionate about technology in general (perhaps a little bit too hyped 😅). I love to learn new things, mainly new languages and back-end frameworks. Trying to contribute more to open source in the last few months and being enjoying a lot. Also looking forward to stream code some projects that I'd like to develop. 
