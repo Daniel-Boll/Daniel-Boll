@@ -52,5 +52,5 @@ Want to contact me? [Get me through gmail](mailto:danielboll.academico@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/daniel-boll/daniel-boll/output/github-contribution-grid-snake.svg" />
 </p>
