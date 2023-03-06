@@ -1,16 +1,13 @@
+  <p align="center">
+  <a href="https://holopin.io/@danielboll">
+    <img src="https://holopin.me/danielboll" alt="@danielboll's Holopin board"/>
+  </a>
+  </p>
+
 <h1 align="center">Daniel <img src="https://skillicons.dev/icons?i=regex" alt="Regex"/> Boll</h1>
 
-<p align="center">
-  <a href="https://holopin.io/@danielboll">
-    <img src="https://holopin.me/danielboll" alt="@danielboll's Holopin board" width=650 align="left" />
-  </a>
-  
   I'm a full-stack developer from Brazil. I'm passionate about technology and constantly seeking new challenges to expand my skillset. I enjoy mastering new programming languages and frameworks and contributing to open source projects. I also like sharing my progress through live coding. If you want to get in touch, feel free to contact me through [Gmail](mailto:danielboll.academico@gmail.com).
-  
-</p>
 
-<br clear="left"/>
-<br/>
 
 <div align="center">
   
