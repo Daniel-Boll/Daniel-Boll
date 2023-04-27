@@ -3,6 +3,17 @@
     <img src="https://holopin.me/danielboll" alt="@danielboll's Holopin board"/>
   </a>
   </p>
+  
+<div align="left">
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <img 
+       src="https://api.daily.dev/devcards/2f4518bacd9e4dd8951d8303ef5636cf.png?r=jdr" 
+       width="400" 
+       alt="Daniel Boll's Dev Card"
+       align="right"
+   />
+  </a>
+</div>
 
 <h1 align="center">Daniel <img src="https://skillicons.dev/icons?i=regex" alt="Regex"/> Boll</h1>
 
@@ -18,6 +29,10 @@
 | Frontend | ![icons](https://skillicons.dev/icons?i=react,mui,next) |
   
 </div>
+
+![Metrics](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/achievements.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/daniel-boll/daniel-boll/output/github-contribution-grid-snake.svg" />
