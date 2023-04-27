@@ -30,9 +30,9 @@
   
 </div>
 
-![Metrics](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/github-metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/notable.svg)
+![Achievements](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/achievements.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/daniel-boll/daniel-boll/output/github-contribution-grid-snake.svg" />
