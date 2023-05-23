@@ -31,7 +31,6 @@
 
 ![Metrics](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/notable.svg)
-![Achievements](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/achievements.svg)
 
 <!--
 <p align="center">
