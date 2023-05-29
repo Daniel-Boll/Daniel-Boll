@@ -1,3 +1,5 @@
+  ![shoutout-sponsors](https://sponsor-spotlight.vercel.app/sponsor?login=daniel-boll)
+  
   <p align="center">
   <a href="https://holopin.io/@danielboll">
     <img src="https://holopin.me/danielboll" alt="@danielboll's Holopin board"/>
