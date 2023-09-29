@@ -31,15 +31,6 @@
   
 </div>
 
-![Metrics](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/Daniel-Boll/Daniel-Boll/output/notable.svg)
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daniel-boll/daniel-boll/output/github-contribution-grid-snake.svg" />
-</p>
--->
-
 <p align="center">     
   <img src="https://img.buymeacoffee.com/button-api/?text=Support me&emoji=&slug=daniel.boll&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" alt="Support me"/>
   </p>
