@@ -7,13 +7,13 @@
   </p>
   
 <div align="left">
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-  <img 
-       src="https://api.daily.dev/devcards/2f4518bacd9e4dd8951d8303ef5636cf.png?r=jdr" 
-       width="400" 
-       alt="Daniel Boll's Dev Card"
-       align="right"
-   />
+  <a href="https://app.daily.dev/danielboll">
+    <img 
+      src="https://api.daily.dev/devcards/v2/p2WIWw6myDw9Y2UT9nJNw.png?type=default&r=gtw" 
+      width="356" 
+      alt="Daniel Boll's Dev Card"
+      align="right"
+     />
   </a>
 </div>
 
