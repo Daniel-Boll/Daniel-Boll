@@ -3,7 +3,6 @@ from zoneinfo import ZoneInfo
 
 import gifos
 
-
 FONT_FILE_LOGO = "./fonts/vtks-blocketo.regular.ttf"
 FONT_FILE_BITMAP = "./fonts/gohufont-uni-14.pil"
 FONT_FILE_TRUETYPE = "./fonts/IosevkaTermNerdFont-Bold.ttf"
@@ -12,7 +11,7 @@ FONT_FILE_MONA = "./fonts/Inversionz.otf"
 
 def main():
     t = gifos.Terminal(
-        width=800,
+        width=750,
         height=500,
         xpad=15,
         ypad=15,
@@ -20,7 +19,7 @@ def main():
         font_size=15,
     )
     t.set_fps(15)
-    t.set_prompt("\x1b[0;91m0xDA6E\x1b[0m@\x1b[0;93mλ ~> \x1b[0m")
+    t.set_prompt("\x1b[0;91m0xDA6E\x1b[0m@\x1b[0;93mlambda ~> \x1b[0m")
 
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
@@ -28,7 +27,7 @@ def main():
     t.gen_text("DamnOS Modular BIOS v1.0.121", 1)
     t.gen_text(f"Copyright (C) {year_now}, \x1b[31m<Daniel::Boll> Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mDamnOS Kernel, Rev 1011\x1b[0m", 4)
-    t.gen_text("λ(tm) CPU - 250Hz", 6)
+    t.gen_text("Lambda(tm) CPU - 250Hz", 6)
     t.gen_text(
         "Press \x1b[94mDEL\x1b[0m to enter SETUP, \x1b[94mESC\x1b[0m to cancel Memory Test",
         t.num_rows,
