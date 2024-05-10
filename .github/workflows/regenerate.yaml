@@ -1,0 +1,42 @@
+name: Regenerate README medias
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Install dependencies
+        run: |
+          sudo apt update && sudo apt install -y ffmpeg
+          python -m pip install --upgrade pip
+          pip install github-readme-terminal
+
+      - name: Run script
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update readme
+        run: |
+          branch_name="gifos"
+
+          if git rev-parse --verify --quiet "$branch_name"; then
+              git branch -D "$branch_name"
+          fi
+
+          git checkout --orphan "$branch_name"
+          git rm -rf .
+          git add output.gif screenshot.png
+          git -c "user.name=bot" -c "user.email=bot@github.com" commit -m "Automatically updated on $(date)"
+          git push -u -f origin $branch_name
