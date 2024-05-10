@@ -1,9 +1,0 @@
-IosevkaTermNerdFont-Bold.ttf filter=lfs diff=lfs merge=lfs -text
-vtks-blocketo.regular.ttf filter=lfs diff=lfs merge=lfs -text
-gohufont-uni-14.pil filter=lfs diff=lfs merge=lfs -text
-ter-u14n.pil filter=lfs diff=lfs merge=lfs -text
-gohufont-uni-14.pbm filter=lfs diff=lfs merge=lfs -text
-ter-u14n.pbm filter=lfs diff=lfs merge=lfs -text
-gohufont-uni-14.bdf filter=lfs diff=lfs merge=lfs -text
-ter-u14n.bdf filter=lfs diff=lfs merge=lfs -text
-Inversionz.otf filter=lfs diff=lfs merge=lfs -text
