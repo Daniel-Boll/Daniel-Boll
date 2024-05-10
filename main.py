@@ -3,6 +3,7 @@ from zoneinfo import ZoneInfo
 
 import gifos
 
+
 FONT_FILE_LOGO = "./fonts/vtks-blocketo.regular.ttf"
 FONT_FILE_BITMAP = "./fonts/gohufont-uni-14.pil"
 FONT_FILE_TRUETYPE = "./fonts/IosevkaTermNerdFont-Bold.ttf"
@@ -11,7 +12,7 @@ FONT_FILE_MONA = "./fonts/Inversionz.otf"
 
 def main():
     t = gifos.Terminal(
-        width=750,
+        width=800,
         height=500,
         xpad=15,
         ypad=15,
